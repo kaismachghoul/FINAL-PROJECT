@@ -13,7 +13,7 @@ var romania ={link:'data/Romania.jpg', name : 'ROMANIA'}
 var panama = {link:'data/Panama.jpg', name : 'PANAMA'}
 
 var medium = ['data/Wales.jpg','data/Syria.jpg','data/Paraguay.jpg','data/Romania.jpg','data/Panama.jpg']
-
+var pays2 = ['WALES','SYRIA','PARAGUAY','ROMANIA','PANAMA']
 
 var antigua ={link:'data/Antigua_and_Barbuda.jpg', name : 'Antigua and Barbuda.jpg'}
 var brunei = {link:'data/Brunei.jpg', name : 'BRUNEI'}
@@ -23,7 +23,7 @@ var cooksIland = {link:'data/Cook_Islands.jpg', name : 'COOKS ILANDS'}
  
 var hard = ['data/Belize.jpg','data/Bhutan.jpg','data/Antigua_and_Barbuda.jpg','data/Brunei.jpg','data/Monaco.jpg']
 
-
+var pays3 =['ANTIGUA AND BARBUDA','BRUNEI','MONACO','BELISE']
 
 $(document).ready(function(){
 // for (var i=0;i<easy.length;i++){
